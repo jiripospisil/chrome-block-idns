@@ -34,6 +34,11 @@ It sure is. My hope is that browsers
 [soon](https://bugzilla.mozilla.org/show_bug.cgi?id=1332714) figure out a
 solution to this and the extension will not be needed.
 
+### How do I know it works?
+
+Once installed, it should no longer be possible to open pages such as
+https://www.xn--e1awd7f.com or https://www.xn--80ak6aa92e.com.
+
 ### But it crashes and does all sorts of nasty things!
 
 Well, it's my first Chrome extension after all! But seriously should that ever
