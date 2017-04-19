@@ -29,10 +29,14 @@ they're out there.)
 
 ### The extension is really basic. I can't even temporarily allow a domain!
 
-It sure is. My hope is that browsers
+It is. My hope is that browsers
 [will](https://bugs.chromium.org/p/chromium/issues/detail?id=683314)
 [soon](https://bugzilla.mozilla.org/show_bug.cgi?id=1332714) figure out a
-solution to this and the extension will not be needed.
+solution to this and the extension will not be needed. If you need more
+control, there're other extensions you might want to look into (untested):
+
+- https://github.com/i3visio/punycode-alert
+- https://github.com/AykutCevik/IDN-Safe
 
 ### How do I know it works?
 
