@@ -1,5 +1,10 @@
 # Block internationalized domain names (IDNs)
 
+#### Install
+
+https://chrome.google.com/webstore/detail/block-internationalized-d/jmnapkaobebcoddgamggpchpnaikahff
+
+
 ### What is this?
 
 It's a Chrome extension which blocks requests to websites which use
@@ -37,6 +42,16 @@ control, there're other extensions you might want to look into (untested):
 
 - https://github.com/i3visio/punycode-alert
 - https://github.com/AykutCevik/IDN-Safe
+
+### The extension asks for permissions to read all data on all pages. How do I know this is the code that's published in the store?
+
+You can download the extension directly from the store via [chrome-ext-downloader](https://github.com/jiripospisil/chrome-ext-downloader) and see for yourself.
+
+```
+npm install -g chrome-ext-downloader
+ced jmnapkaobebcoddgamggpchpnaikahff
+```
+
 
 ### How do I know it works?
 
